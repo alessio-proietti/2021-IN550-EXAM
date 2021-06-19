@@ -1,3 +1,5 @@
+[https://img.shields.io/badge/donate%20satoshis-buy%20me%20a%20coffee-yellow](https://pywl.to/alessioproiettiatxyz)
+
 # 2021-IN550-EXAM
 Repo for my Exam project.
 

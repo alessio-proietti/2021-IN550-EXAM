@@ -1,4 +1,4 @@
-[https://img.shields.io/badge/Made%20with-MathJax-1f425f.svg](https://pywl.to/alessioproiettiatxyz)
+[![Shields.io](https://img.shields.io/badge/shields.io-ok-green.svg?style=flat)](http://shields.io/)
 
 # 2021-IN550-EXAM
 Repo for my Exam project.

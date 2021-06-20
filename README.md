@@ -1,6 +1,7 @@
 [![Coffetome](https://img.shields.io/badge/donate%20satoshis-buy%20me%20a%20coffee-yellow)](https://pywl.to/alessioproiettiatxyz)
 
-DASH address tipping: XdoSWdjMFpjGWbK64xs17TAHzNu7usRMgP
+tip DASH address: XdoSWdjMFpjGWbK64xs17TAHzNu7usRMgP
+tip XMR address: 43r1A5zHquw2Riti67ZVJTCTRByAoAvbk7ffDA7oRZJiAun9X86eduNXtmdxRNbJWMBzSJWJUztECGAYLAGCAUXL51CEPeH
 
 # 2021-IN550-EXAM
 Repo for my Exam project.
